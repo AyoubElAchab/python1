@@ -115,4 +115,5 @@ print("one = " + str(one))
 print("two = " + str(two))
 print("hey = " + str(hey))
 
+# the count of value "2" in tuple
 print(anothertuple.count(2))
